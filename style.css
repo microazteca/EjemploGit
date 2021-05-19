@@ -1,0 +1,16 @@
+h1{
+	color: pink;
+	font-weight: bold;
+}
+
+h2{
+	color: black;
+	background-color: pink;
+	font-style: oblique;
+}
+
+h3{
+	color: white;
+	background-color: black;
+	font-weight: bold;
+}
